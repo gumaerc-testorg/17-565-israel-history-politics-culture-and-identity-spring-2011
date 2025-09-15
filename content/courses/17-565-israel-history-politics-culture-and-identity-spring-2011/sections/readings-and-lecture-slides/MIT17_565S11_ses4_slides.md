@@ -4,6 +4,7 @@ course_id: 17-565-israel-history-politics-culture-and-identity-spring-2011
 description: ''
 file: null
 file_location: /coursemedia/17-565-israel-history-politics-culture-and-identity-spring-2011/aec4ca144fecc9b3f31a6e66a5502eb9_MIT17_565S11_ses4_slides.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
