@@ -48,17 +48,14 @@ A good paper will use an analytical framework (a puzzle, a comparison) to explai
 
 Here are a few guides about writing good papers in political science:
 
-*   [Writing in Political Science: A Sampling of Advice from Faculty, Marquette University  
-    ](http://www.marquette.edu/wac/departmental/MarquetteUniversityWritinginPoliticalScienceCourses.shtml)
-*   [How to Research a Political Science Paper, Queens College  
-    ](http://qcpages.qc.edu/Political_Science/researching.html)
-*   [Writing Political Science Papers: Some Useful Guidelines, Queens College](http://qcpages.qc.edu/Political_Science/tips.html)
+*   {{% resource_link "f7e15a7c-f38b-4c0d-8be9-3397f440b5fc" "Writing in Political Science: A Sampling of Advice from Faculty, Marquette University       " %}}
+*   {{% resource_link "336c20ec-eeac-4049-ae28-6ba50cbbb7c1" "How to Research a Political Science Paper, Queens College       " %}}
+*   {{% resource_link "18f4331e-110b-4325-ab73-07f19976ec48" "Writing Political Science Papers: Some Useful Guidelines, Queens College" %}}
 
 Procedural Issues
 
 Papers are due at the end of our last meeting. They should be 5-7 pages long. Please use a citation system such as the Chicago Manual:
 
-[Chicago Documentation Style  
-](http://www.wisc.edu/writing/Handbook/DocChicago.html)
+{{% resource_link "29700e85-886c-429d-baee-381102e24192" "Chicago Documentation Style   " %}}
 
 You are most welcomed to submit an earlier memo (no more than one page) describing your project, and are encouraged to discuss any questions you may have during office hours. Note that style counts. Spelling mistakes, syntax and grammar issues usually make the analysis hard to understand and should be avoided.

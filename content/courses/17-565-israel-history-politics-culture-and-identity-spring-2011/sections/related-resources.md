@@ -29,23 +29,23 @@ Additional Recommended Bibliography
 Scholarly Journals
 ------------------
 
-*   [_Israel Studies_](http://muse.jhu.edu/journals/israel_studies/)
-*   [_Israel Studies Review_](http://journals.berghahnbooks.com/isr/)
-*   [_Israel Affairs_](http://www.tandf.co.uk/journals/titles/13537121.asp)
-*   [_Journal of Israeli History_](http://www.tandf.co.uk/journals/titles/13531042.asp)
-*   [_Journal of Palestine Studies_](http://jps.ucpress.edu/)
-*   [_Azure_](http://www.azure.org.il/)
+*   {{% resource_link "631577f5-8adf-4d7b-9eb9-081c98c0115f" "_Israel Studies_" %}}
+*   {{% resource_link "3b62f53d-9072-4878-a510-e42ea3f39b31" "_Israel Studies Review_" %}}
+*   {{% resource_link "01c62cb2-a647-4919-b62d-645e6d04de06" "_Israel Affairs_" %}}
+*   {{% resource_link "2d1f2ae2-7873-4b17-8030-edc853f99f31" "_Journal of Israeli History_" %}}
+*   {{% resource_link "8b7f566a-0b58-4a76-aa39-c1d6a1747325" "_Journal of Palestine Studies_" %}}
+*   {{% resource_link "f8f850c5-5a9b-4517-a082-ef81347ed69f" "_Azure_" %}}
 
 Websites
 --------
 
-*   [Haaretz](http://www.haaretz.com)
-*   [The Jerusalem Post](http://www.jpost.com)
-*   [The Central Zionist Archive](http://www.zionistarchives.org.il/ZA/pMainE.aspx)
-*   [Israeli Ministry of Foreign Affairs](http://www.dsai.ca/projects/the-israeli-ministry-of-foreign-affairs-jerusalem-israel)
-*   [Israeli Knesset](http://www.knesset.gov.il/main/eng/home.asp)
-*   [Israeli Supreme Court](http://elyon1.court.gov.il/eng/home/index.html)
-*   [People Israel — A guide to Israeli Society](http://www.peopleil.org/Default.aspx?sLanguage=en-US)
-*   [Intelligence and Terrorism Information Center](http://www.intelligence.org.il/)
-*   [Palestine Remembered](http://www.palestineremembered.com/)
-*   [PLO — Negotiation Affairs Department](https://www.nad.ps/en)
+*   {{% resource_link "2ca5d41b-3ef4-49a4-b0f0-ee16f3c8cd02" "Haaretz" %}}
+*   {{% resource_link "afe89a6c-6c00-4c20-be4c-bf4ae1b96555" "The Jerusalem Post" %}}
+*   {{% resource_link "91aca8b4-6862-4e08-9886-952e2d6464a9" "The Central Zionist Archive" %}}
+*   {{% resource_link "c7967398-f7e1-4081-a85c-130b5f4d4a5e" "Israeli Ministry of Foreign Affairs" %}}
+*   {{% resource_link "b2a15f6e-32f1-4901-b83b-125bfe427ee7" "Israeli Knesset" %}}
+*   {{% resource_link "5e75e04e-3f3f-446a-8d28-52f14995665d" "Israeli Supreme Court" %}}
+*   {{% resource_link "9469a90e-00a4-4d99-aefd-aafed2bcc1ba" "People Israel — A guide to Israeli Society" %}}
+*   {{% resource_link "9f4e80e6-c8b3-4675-a182-77cbcf5c66e6" "Intelligence and Terrorism Information Center" %}}
+*   {{% resource_link "46d71192-e02a-44f1-a64f-1d82fad7873e" "Palestine Remembered" %}}
+*   {{% resource_link "e5003dcf-edf9-48db-b22d-fa507301f053" "PLO — Negotiation Affairs Department" %}}
